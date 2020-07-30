@@ -1,0 +1,9 @@
+{
+    "name": "pixelbrackets/patchbot-skeleton",
+    "description": "A skeleton project to install and use pixelbrackets/patchbot",
+    "type": "project",
+    "license": "GPL-2.0-or-later",
+    "require-dev": {
+        "pixelbrackets/patchbot": "^1.0"
+    }
+}
